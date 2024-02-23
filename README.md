@@ -47,7 +47,3 @@ The Project Report summarizes the entire Software Engineering project, highlight
 ## Contributing
 
 Contributions to this documentation repository are welcome! If you have updates, corrections, or additional documents to contribute, please follow our [contribution guidelines](CONTRIBUTING.md).
-
-## License
-
-This project documentation is licensed under the [Creative Commons Attribution 4.0 International License](LICENSE).
